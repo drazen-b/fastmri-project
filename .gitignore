@@ -1,4 +1,5 @@
-notebooks/outputs/
+
 notebooks/subsampled/
 notebooks/brain_leaderboard_state_dict.pt
 notebooks/file_brain*
+notebooks/original_image/
